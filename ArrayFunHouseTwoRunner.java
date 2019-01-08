@@ -6,10 +6,11 @@
 
 import java.util.Arrays;
 
-public class ArrayFunHouseRunner
+public class ArrayFunHouseTwoRunner
 {
 	public static void main( String args[] )
 	{
-		//add test cases
+		//add test cases - the methods in ArrayFunHouseTwo are all static.  So you do not need a constructor.
+		//use the class name (ArrayFunHouseTwo) to call the methods. 
 	}
 }
